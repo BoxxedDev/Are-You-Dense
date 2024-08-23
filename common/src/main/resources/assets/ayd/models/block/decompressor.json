@@ -1,0 +1,9 @@
+{
+	"parent": "ayd:block/compressor",
+	"textures": {
+		"0": "ayd:block/decompressor_side",
+		"1": "ayd:block/decompressor_glass",
+		"2": "ayd:block/decompressor_middle",
+		"particle": "minecraft:block/polished_deepslate"
+	}
+}

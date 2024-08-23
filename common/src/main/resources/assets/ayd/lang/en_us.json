@@ -1,0 +1,7 @@
+{
+  "block.ayd.compressor": "Compressor",
+  "block.ayd.decompressor": "Decompressor",
+
+  "container.compressor": "Compressor",
+  "container.decompressor": "Decompressor"
+}
